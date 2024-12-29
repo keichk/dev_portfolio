@@ -68,5 +68,5 @@ Le portfolio est divisé en plusieurs sections, chacune représentant un projet 
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
+   git clone https://github.com/keichk/dev_portfolio.git
 
